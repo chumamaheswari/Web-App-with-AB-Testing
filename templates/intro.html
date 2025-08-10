@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Intro</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Web App with AB Testing</h1>
+    <p>Intro page. Click to login</p>
+    <a class="btn" href="{{ url_for('login') }}">Go to Login</a>
+  </div>
+</body>
+</html>
