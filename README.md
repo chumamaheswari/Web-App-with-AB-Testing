@@ -23,7 +23,7 @@ This project implements a simple Flask-based web application with:
    - If downloading as ZIP, extract to a known folder.
    - If cloning via Git:  
      ```bash
-     git clone https://github.com/<your-username>/<repo-name>.git
+     git clone https://github.com/<chumamaheswari>/<repo-name>.git
      ```
 
 2. **Open the folder in Visual Studio 2022**  
@@ -34,3 +34,7 @@ This project implements a simple Flask-based web application with:
    ```powershell
    python -m venv venv
    .\venv\Scripts\Activate
+4. **open Your Browser at**
+   ```Browser
+   http://127.0.0.1:5000
+   ```
